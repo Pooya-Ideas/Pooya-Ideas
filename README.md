@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- AVAN Logo Placeholder - Upload your logo as avatar and optionally here -->
-<img src="https://raw.githubusercontent.com/Pooya-Ideas/Pooya-Ideas/main/assets/avan-logo.png" alt="AVAN" width="180"/>
-
 # AVAN
 
 **Building tools that bridge documents, languages & intelligence**
